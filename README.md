@@ -1,10 +1,11 @@
 # ACCESSORIES-on-.NET
-This is a ACCESSORIES program on .NET
+This is a ACCESSORIES Manager Application program on .NET
 
 _____________________________________________________________________________________
 
-Open the terminal and go to the folder where you want to create the project.
-
+Install the .NET SDK
+      Before you start writing code, you need a tool called the .NET SDK. 
+      
 Run the following command:
       bash
         dotnet new console -n AccessoriesManager
